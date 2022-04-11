@@ -60,8 +60,8 @@ class Solution:
 
 if __name__ == '__main__':
     # c = 13
-    c = 12
-    # c = 1000000000
+    # c = 12
+    c = 1000000000
     s = Solution()
     r = s.numSquares(c)
     print(r)
